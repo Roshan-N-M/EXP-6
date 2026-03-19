@@ -17,7 +17,20 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+THEORY:
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/5f5ad2ab-f370-4a2c-8a7b-f5b13bf0b3df" />
+<img width="1319" height="490" alt="image" src="https://github.com/user-attachments/assets/5e068e6b-546d-467b-9c78-b3ef5f24bc22" />
+CIRCUIT DIAGRAM AND TABULATIONS:
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/77301209-f15d-4fef-ae09-8015a096ed15" />
+MODEL GRAPH:
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e1fac54-91a1-41f2-a0a0-02adc8c21b1c" />
+DIAGRAM:
+POSITIVE:
+<img width="1600" height="889" alt="image" src="https://github.com/user-attachments/assets/1157038a-e269-4c98-9ca8-0cfa19206e39" />
+NEGATIVE:
+<img width="1362" height="781" alt="image" src="https://github.com/user-attachments/assets/3b38c739-a4b4-4130-b8f5-6209d7e63cd5" />
+
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
